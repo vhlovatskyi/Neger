@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\vladyslav\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\vladyslav\\source\\repos\\consoleapp2\\consoleapp2\\boy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\boy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\vladyslav\\source\\repos\\consoleapp2\\consoleapp2\\girl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\girl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\vladyslav\\source\\repos\\consoleapp2\\consoleapp2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\vladyslav\\source\\repos\\consoleapp2\\consoleapp2\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\vladyslav\\source\\repos\\consoleapp2\\consoleapp2\\evilelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\evilelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\vladyslav\\source\\repos\\consoleapp2\\consoleapp2\\kindelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\kindelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\vladyslav\\source\\repos\\consoleapp2\\consoleapp2\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\vladyslav\\source\\repos\\consoleapp2\\consoleapp2\\igivegift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60BFCE3-6471-4C55-A65D-0033364D311F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\igivegift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boy.cs",
+              "DocumentMoniker": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Boy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Boy.cs",
+              "ToolTip": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Boy.cs",
+              "RelativeToolTip": "ConsoleApp2\\Boy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:16:14.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Girl.cs",
+              "DocumentMoniker": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Girl.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Girl.cs",
+              "ToolTip": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Girl.cs",
+              "RelativeToolTip": "ConsoleApp2\\Girl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:15:58.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Person.cs",
+              "ToolTip": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Person.cs",
+              "RelativeToolTip": "ConsoleApp2\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:15:45.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Gift.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Gift.cs",
+              "ToolTip": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Gift.cs",
+              "RelativeToolTip": "ConsoleApp2\\Gift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:15:29.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EvilElf.cs",
+              "DocumentMoniker": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\EvilElf.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\EvilElf.cs",
+              "ToolTip": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\EvilElf.cs",
+              "RelativeToolTip": "ConsoleApp2\\EvilElf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:15:11.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KindElf.cs",
+              "DocumentMoniker": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\KindElf.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\KindElf.cs",
+              "ToolTip": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\KindElf.cs",
+              "RelativeToolTip": "ConsoleApp2\\KindElf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:14:59.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Elf.cs",
+              "DocumentMoniker": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Elf.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Elf.cs",
+              "ToolTip": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Elf.cs",
+              "RelativeToolTip": "ConsoleApp2\\Elf.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:14:28.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGiveGift.cs",
+              "DocumentMoniker": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\IGiveGift.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\IGiveGift.cs",
+              "ToolTip": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\IGiveGift.cs",
+              "RelativeToolTip": "ConsoleApp2\\IGiveGift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:14:03.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Vladyslav\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:52:43.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

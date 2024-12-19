@@ -23,24 +23,22 @@ namespace ConsoleApp2
                 new Boy()
             };
 
-            Elf kindElf = new KindElf();
-            Elf evilElf = new EvilElf();
-
-            Console.WriteLine("Добрий ельф:");
-            foreach (var recipient in recipients)
+            List<Elf> elves = new List<Elf>
             {
-                foreach (var gift in gifts)
-                {
-                    kindElf.GiveGift(recipient, gift);
-                }
-            }
+                new KindElf(),
+                new EvilElf()
+            };
 
-            Console.WriteLine("\nЗлий ельф:");
-            foreach (var recipient in recipients)
+            foreach (var elf in elves)
             {
-                foreach (var gift in gifts)
+                Console.WriteLine($"{elf.GetType().Name}:");
+
+                foreach (var recipient in recipients)
                 {
-                    evilElf.GiveGift(recipient, gift);
+                    foreach (var gift in gifts)
+                    {
+                        elf.GiveGift(recipient, gift);
+                    }
                 }
             }
         }
